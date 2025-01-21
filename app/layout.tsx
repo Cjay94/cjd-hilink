@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "Hilink",
+  title: "Hilink | CJD",
   description: "Travel App for Camping",
   icons: "/camp.svg",
 };
